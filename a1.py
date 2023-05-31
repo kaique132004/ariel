@@ -69,6 +69,6 @@ while True:
         elif Opc == 'x':
             print("Fim da operação, volte sempre :) ")
             break
-   elif opcao == 4;
+   elif opcao == 4:
         print("Saindo do sistema")
         break
